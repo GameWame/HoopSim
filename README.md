@@ -1,4 +1,4 @@
-# 🏀 HoopSim: An AR Basketball Simulator for HoloLens 2 🏀
+# 🏀 HoopSim: An AR Basketball Simulator for HoloLens 2 
 
 HoopSim is an augmented reality basketball shooting simulator developed for the Microsoft HoloLens 2, created as a Bachelor's thesis in Computer Science.
 
